@@ -1,0 +1,8 @@
+[Extreme]
+//Allosw parts to mix across weapon types i.e shotgun parts on pistols
+False
+
+[MoreParts]
+//allows chance for 1 more part in each category with multi part selection
+//off by default to not make game too easy
+False

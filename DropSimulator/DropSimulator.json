@@ -1,0 +1,422 @@
+[
+    {
+        "Level": 72,
+        "InvData": "BPInv_ArtifactData_C|/Game/Gear/Artifacts/_Design/_Data/Artifact_Default.Artifact_Default",
+        "Balance": "InventoryBalanceData|/Game/Gear/Artifacts/_Design/BalanceDefs/InvBalD_Artifact_05_Legendary.InvBalD_Artifact_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Eridian.Eridian",
+        "Parts": [
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/Rarity/Artifact_Part_Rarity_Legendary.Artifact_Part_Rarity_Legendary",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/Abilities/_Legendary/Melee/CommanderPlanetoid/Artifact_Part_Ability_CommanderPlanetoid.Artifact_Part_Ability_CommanderPlanetoid",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/Abilities/MeleeArtifacts/CorrosiveStone/Artifact_Part_Ability_CorrosiveStone.Artifact_Part_Ability_CorrosiveStone",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/PrimaryStats/_Weapon/Long-Range/Artifact_Part_Stats_LongRange.Artifact_Part_Stats_LongRange",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/SecondaryStats/Character/Artifact_Part_Stats_MaxHealth.Artifact_Part_Stats_MaxHealth",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/SecondaryStats/Elemental/Artifact_Part_Stats_CorrosiveResist.Artifact_Part_Stats_CorrosiveResist"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/WT_AR_TOR.WT_AR_TOR",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/_Unique/Bearcat/Balance/Balance_AR_TOR_Bearcat.Balance_AR_TOR_Bearcat",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Torgue.Torgue",
+        "Parts": [
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Body/Part_AR_TOR_Body.Part_AR_TOR_Body",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Body/Part_AR_TOR_Body_C.Part_AR_TOR_Body_C",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Body/Part_AR_TOR_Body_B.Part_AR_TOR_Body_B",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/_Unique/Bearcat/Parts/Part_AR_TOR_Barrel_Bearcat.Part_AR_TOR_Barrel_Bearcat",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Barrel/Barrel_03/Part_AR_TOR_Barrel_03_A.Part_AR_TOR_Barrel_03_A",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Barrel/Barrel_03/Part_AR_TOR_Barrel_03_C.Part_AR_TOR_Barrel_03_C",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Grip/Part_AR_TOR_Grip_03.Part_AR_TOR_Grip_03",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/ForeGrip/Part_AR_TOR_ForeGrip_02.Part_AR_TOR_ForeGrip_02",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Scope/Part_AR_TOR_Scope_02.Part_AR_TOR_Scope_02",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/_Unique/Bearcat/Parts/Part_AR_TOR_Magazine_BearCat.Part_AR_TOR_Magazine_BearCat",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Elemental/Part_AR_TOR_Ele_Radiation.Part_AR_TOR_Ele_Radiation",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/Parts/Exhaust/Part_AR_TOR_Exhaust_03.Part_AR_TOR_Exhaust_03",
+            "BPInvPart_AR_TOR_C|/Game/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/_Unique/Bearcat/Parts/Part_AR_TOR_Material_Bearcat.Part_AR_TOR_Material_Bearcat"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/Gear/Weapons/_Shared/_Design/EndGameParts/_Generic/SkillEnd_NextMagBonus/Fire/GPart_All_SkillEnd_NextMagBonusDamageFire.GPart_All_SkillEnd_NextMagBonusDamageFire",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_Siren.BPInv_ClassModData2_Siren",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Siren_05_Legendary.InvBalD_ClassMod_Siren_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Siren.ClassMod_Part_Character_Siren",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/SIren/_Unique/Unique_03/ClassMod_Part_Siren_Unique_03_Bruiser.ClassMod_Part_Siren_Unique_03_Bruiser",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Siren_Rarity_05_Legendary.ClassMod_Part_Siren_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Weapon/ClassMod_Part_Stat_Primary_ChargeTime.ClassMod_Part_Stat_Primary_ChargeTime",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Tediore_WeaponFireRate.ClassMod_Part_Stat_Primary_Tediore_WeaponFireRate",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/ClassMod_Part_Stat_Secondary_ShieldCapacity.ClassMod_Part_Stat_Secondary_ShieldCapacity",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Siren/ClassMod_Part_Skill_Siren_BareKnuckle.ClassMod_Part_Skill_Siren_BareKnuckle",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Siren/ClassMod_Part_Skill_Siren_BareKnuckle.ClassMod_Part_Skill_Siren_BareKnuckle",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Siren/ClassMod_Part_Skill_Siren_PersonalSpace.ClassMod_Part_Skill_Siren_PersonalSpace",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Siren/ClassMod_Part_Skill_Siren_BareKnuckle.ClassMod_Part_Skill_Siren_BareKnuckle",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Siren/ClassMod_Part_Skill_Siren_PersonalSpace.ClassMod_Part_Skill_Siren_PersonalSpace"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_BeastMaster.BPInv_ClassModData2_BeastMaster",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Beastmaster_05_Legendary.InvBalD_ClassMod_Beastmaster_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Beastmaster.ClassMod_Part_Character_Beastmaster",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/Beastmaster/_Unique/Beastmaster_Unique_03/ClassMod_Part_Beastmaster_Unique_03_BountyHunter.ClassMod_Part_Beastmaster_Unique_03_BountyHunter",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Beastmaster_Rarity_05_Legendary.ClassMod_Part_Beastmaster_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Maliwan_WeaponAccuracy.ClassMod_Part_Stat_Primary_Maliwan_WeaponAccuracy",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/AOE/ClassMod_Part_Stat_Primary_AreaDamageRadius.ClassMod_Part_Stat_Primary_AreaDamageRadius",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/Manufacturer/ClassMod_Part_Stat_Secondary_DAHL_WeaponDamage.ClassMod_Part_Stat_Secondary_DAHL_WeaponDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/BeastMaster/ClassMod_Part_Skill_BeastMaster_HuntersEye.ClassMod_Part_Skill_BeastMaster_HuntersEye",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/BeastMaster/ClassMod_Part_Skill_BeastMaster_HuntersEye.ClassMod_Part_Skill_BeastMaster_HuntersEye",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/BeastMaster/ClassMod_Part_Skill_BeastMaster_DangerousGame.ClassMod_Part_Skill_BeastMaster_DangerousGame",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/BeastMaster/ClassMod_Part_Skill_BeastMaster_HuntersEye.ClassMod_Part_Skill_BeastMaster_HuntersEye",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/BeastMaster/ClassMod_Part_Skill_BeastMaster_DangerousGame.ClassMod_Part_Skill_BeastMaster_DangerousGame"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_SM_Maliwan_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/WT_SM_MAL.WT_SM_MAL",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/DestructoSpin/Balance/Balance_SM_MAL_DestructoSpin.Balance_SM_MAL_DestructoSpin",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Maliwan.Maliwan",
+        "Parts": [
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Body/Part_SM_MAL_Body.Part_SM_MAL_Body",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/DestructoSpin/Part/Part_SM_MAL_Barrel_DestructoSpin.Part_SM_MAL_Barrel_DestructoSpin",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Barrel/Barrel_03/Part_SM_MAL_Barrel_03_A.Part_SM_MAL_Barrel_03_A",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Barrel/Barrel_03/Part_SM_MAL_Barrel_03_C.Part_SM_MAL_Barrel_03_C",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Scope/Part_SM_MAL_Scope_02.Part_SM_MAL_Scope_02",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Mag/Part_SM_MAL_Mag_02.Part_SM_MAL_Mag_02",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Grip/Part_SM_MAL_Grip_01.Part_SM_MAL_Grip_01",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Stock/Part_SM_MAL_Stock_01.Part_SM_MAL_Stock_01",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Elemental_Primary/Part_SM_Mal_ElemPrimary_01_Fire.Part_SM_Mal_ElemPrimary_01_Fire",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Elemental_Secondary/Part_SM_Mal_ElemSecondary_02_Cryo.Part_SM_Mal_ElemSecondary_02_Cryo",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/DestructoSpin/Part/Part_SM_MAL_Material_DestructoSpin.Part_SM_MAL_Material_DestructoSpin"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/PatchDLC/Ixora/Gear/Weapons/EndGameParts/Siren/PhaseslamDamage/GPart_Siren_PhaseslamDamage.GPart_Siren_PhaseslamDamage",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_Gunner.BPInv_ClassModData2_Gunner",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Gunner_05_Legendary.InvBalD_ClassMod_Gunner_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Gunner.ClassMod_Part_Character_Gunner",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/Gunner/_Unique/Unique_04/ClassMod_Part_Gunner_Unique_04.ClassMod_Part_Gunner_Unique_04",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Gunner_Rarity_05_Legendary.ClassMod_Part_Gunner_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_CoV_WeaponDamage.ClassMod_Part_Stat_Primary_CoV_WeaponDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/ClassMod_Part_Stat_Primary_MeleeDamage.ClassMod_Part_Stat_Primary_MeleeDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/AOE/ClassMod_Part_Stat_Secondary_GrenadeRadius.ClassMod_Part_Stat_Secondary_GrenadeRadius",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_StainlessSteelBear.ClassMod_Part_Skill_Gunner_StainlessSteelBear",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_ExplosivePunctuation.ClassMod_Part_Skill_Gunner_ExplosivePunctuation",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_Grizzled.ClassMod_Part_Skill_Gunner_Grizzled",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_Grizzled.ClassMod_Part_Skill_Gunner_Grizzled",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_ExplosivePunctuation.ClassMod_Part_Skill_Gunner_ExplosivePunctuation"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_AR_VLA_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/WT_AR_VLA.WT_AR_VLA",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/_Unique/Shredifier/Balance/Balance_AR_VLA_Sherdifier.Balance_AR_VLA_Sherdifier",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Vladof.Vladof",
+        "Parts": [
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Body/Part_AR_VLA_Body.Part_AR_VLA_Body",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Body/Part_AR_VLA_Body_A.Part_AR_VLA_Body_A",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Body/Part_AR_VLA_Body_C.Part_AR_VLA_Body_C",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Body/Part_AR_VLA_Body_D.Part_AR_VLA_Body_D",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/_Unique/Shredifier/Parts/Part_AR_VLA_Barrel_Shredifier.Part_AR_VLA_Barrel_Shredifier",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Underbarrel/Underbarrel_01/Part_AR_VLA_Underbarrel_01.Part_AR_VLA_Underbarrel_01",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Grip/Part_AR_VLA_Grip_02.Part_AR_VLA_Grip_02",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Foregrip/Part_AR_VLA_Foregrip_01.Part_AR_VLA_Foregrip_01",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/_Unique/Shredifier/Parts/Part_AR_VLA_Magazine_Shredifier.Part_AR_VLA_Magazine_Shredifier",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Rails/Part_AR_VLA_Rail_02.Part_AR_VLA_Rail_02",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Scopes/Part_AR_VLA_Scope_02.Part_AR_VLA_Scope_02",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Elemental/Part_AR_VLA_Ele_Radiation.Part_AR_VLA_Ele_Radiation",
+            "BPInvPart_VLA_AR_C|/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/_Unique/Shredifier/Parts/Part_AR_VLA_Material_Shredifier.Part_AR_VLA_Material_Shredifier"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/Gear/Weapons/_Shared/_Design/EndGameParts/_Generic/SkillEnd_MeleeDamage/GPart_All_SkillEnd_MeleeDamage.GPart_All_SkillEnd_MeleeDamage",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_SM_Maliwan_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/WT_SM_MAL.WT_SM_MAL",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/Devoted/Balance/Balance_SM_MAL_Devoted.Balance_SM_MAL_Devoted",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Maliwan.Maliwan",
+        "Parts": [
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Body/Part_SM_MAL_Body.Part_SM_MAL_Body",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Body/Part_SM_MAL_Body_B.Part_SM_MAL_Body_B",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Body/Part_SM_MAL_Body_C.Part_SM_MAL_Body_C",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/Devoted/Parts/Part_SM_MAL_Barrel_Devoted.Part_SM_MAL_Barrel_Devoted",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Barrel/Barrel_01/Part_SM_MAL_Barrel_01_C.Part_SM_MAL_Barrel_01_C",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Barrel/Barrel_01/Part_SM_MAL_Barrel_01_A.Part_SM_MAL_Barrel_01_A",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Scope/Part_SM_MAL_Scope_01.Part_SM_MAL_Scope_01",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Mag/Part_SM_MAL_Mag_03.Part_SM_MAL_Mag_03",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Grip/Part_SM_MAL_Grip_03.Part_SM_MAL_Grip_03",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Stock/Part_SM_MAL_Stock_03.Part_SM_MAL_Stock_03",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Elemental_Primary/Part_SM_Mal_ElemPrimary_05_Corrosive.Part_SM_Mal_ElemPrimary_05_Corrosive",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/Parts/Elemental_Secondary/Part_SM_Mal_ElemSecondary_04_Radiation.Part_SM_Mal_ElemSecondary_04_Radiation",
+            "BPInvPart_Maliwan_SMG_C|/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/Devoted/Parts/Part_SM_MAL_Material_Devoted.Part_SM_MAL_Material_Devoted"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/Gear/Weapons/_Shared/_Design/EndGameParts/_Generic/SkillEnd_NextMagBonus/Corrosive/GPart_All_SkillEnd_NextMagBonusDamageCorrosive.GPart_All_SkillEnd_NextMagBonusDamageCorrosive",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_GrenadeModData_C|/Game/Gear/GrenadeMods/_Design/A_Data/GM_Default.GM_Default",
+        "Balance": "InventoryBalanceData|/Game/Gear/GrenadeMods/_Design/_Unique/Fastball/Balance/InvBalD_GM_TED_Fastball.InvBalD_GM_TED_Fastball",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Tediore.Tediore",
+        "Parts": [
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Manufacturer/GM_Part_Manufacturer_07_Tediore.GM_Part_Manufacturer_07_Tediore",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Element/GM_Part_Element_01_Normal.GM_Part_Element_01_Normal",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Rarity/GM_Part_Rarity_05_Legendary.GM_Part_Rarity_05_Legendary",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/_Unique/Fastball/Parts/Part_GM_Aug_Fastball.Part_GM_Aug_Fastball",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Behavior/GM_Part_Behavior_NONE.GM_Part_Behavior_NONE",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Behavior/GM_Part_Behavior_NONE.GM_Part_Behavior_NONE",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/_Unique/Fastball/Parts/Part_GM_Material_Fastball.Part_GM_Material_Fastball"
+        ],
+        "GParts": [
+            "OakInventoryGenericPartData|/Game/PatchDLC/Raid1/Gear/Anointed/Generic/SkillEnd_BonusEleDamage_Corrosive/GPart_EG_SkillEndBonusEleDamage_Corrosive.GPart_EG_SkillEndBonusEleDamage_Corrosive",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/WT_PS_MAL.WT_PS_MAL",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/_Unique/ThunderballFist/Balance/Balance_PS_MAL_ThunderballFists.Balance_PS_MAL_ThunderballFists",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Maliwan.Maliwan",
+        "Parts": [
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Body/Part_PS_MAL_Body.Part_PS_MAL_Body",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Body/Part_PS_MAL_Body_02.Part_PS_MAL_Body_02",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/_Unique/ThunderballFist/Parts/Part_PS_MAL_Barrel_ThunderballFists.Part_PS_MAL_Barrel_ThunderballFists",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Grip/Part_PS_MAL_Grip_04.Part_PS_MAL_Grip_04",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Hammer/Part_PS_MAL_Hammer_04.Part_PS_MAL_Hammer_04",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Magazine/Part_PS_MAL_Mag_02.Part_PS_MAL_Mag_02",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Magazine/Part_PS_MAL_Mag_02_A.Part_PS_MAL_Mag_02_A",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Scope/Part_PS_MAL_Scope_03.Part_PS_MAL_Scope_03",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/Parts/Elemental_Primary/Part_PS_MAL_Elemental_Primary_Shock.Part_PS_MAL_Elemental_Primary_Shock",
+            "BPInvPart_PS_MAL_C|/Game/Gear/Weapons/Pistols/Maliwan/_Shared/_Design/_Unique/ThunderballFist/Parts/Part_PS_MAL_Material_ThunderballFists.Part_PS_MAL_Material_ThunderballFists"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/Gear/Weapons/_Shared/_Design/EndGameParts/Character/Operative/DroneActiveFireRateReload/GPart_Operative_DroneActive_FireRateReload.GPart_Operative_DroneActive_FireRateReload",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ShieldData_C|/Game/Gear/Shields/_Design/A_Data/Shield_Default.Shield_Default",
+        "Balance": "InventoryBalanceData|/Game/Gear/Shields/_Design/_Uniques/Revengenader/Balance/InvBalD_Shield_LGD_Revengenader.InvBalD_Shield_LGD_Revengenader",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Pangolin.Pangolin",
+        "Parts": [
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/PartSets/Part_Manufacturer/Shield_Part_Body_02_Pangolin.Shield_Part_Body_02_Pangolin",
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/PartSets/Part_Rarity/Shield_Part_Rarity_Pangolin_05_Legendary.Shield_Part_Rarity_Pangolin_05_Legendary",
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/_Uniques/Revengenader/Parts/Part_Shield_Aug_PAN_LGD_Revengenader.Part_Shield_Aug_PAN_LGD_Revengenader",
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/PartSets/Part_Augment/RechargeDelay/Part_Shield_Aug_RechargeDelay.Part_Shield_Aug_RechargeDelay",
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/PartSets/Part_Augment/Fleet/Part_Shield_Aug_Fleet.Part_Shield_Aug_Fleet",
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/PartSets/Part_Element/Shield_Part_Element_Normal.Shield_Part_Element_Normal",
+            "BPInvPart_Shield_C|/Game/Gear/Shields/_Design/_Uniques/Revengenader/Parts/Part_Shield_Mat_PAN_LGD_Revengenader.Part_Shield_Mat_PAN_LGD_Revengenader"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/Gear/Weapons/_Shared/_Design/EndGameParts/_Generic/SkillEnd_HealthRegen/GPart_All_SkillEnd_HealthRegen.GPart_All_SkillEnd_HealthRegen"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_GrenadeModData_C|/Game/Gear/GrenadeMods/_Design/A_Data/GM_Default.GM_Default",
+        "Balance": "InventoryBalanceData|/Game/Gear/GrenadeMods/_Design/_Unique/Quasar/Balance/InvBalD_GM_Quasar.InvBalD_GM_Quasar",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Tediore.Tediore",
+        "Parts": [
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Manufacturer/GM_Part_Manufacturer_07_Tediore.GM_Part_Manufacturer_07_Tediore",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Element/GM_Part_Element_03_Shock.GM_Part_Element_03_Shock",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Rarity/GM_Part_Rarity_05_Legendary.GM_Part_Rarity_05_Legendary",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/_Unique/Quasar/Parts/Part_GM_Aug_Quasar.Part_GM_Aug_Quasar",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/PartSets/Part_Behavior/GM_Part_Behavior_NONE.GM_Part_Behavior_NONE",
+            "BPInvPart_GrenadeMod_C|/Game/Gear/GrenadeMods/_Design/_Unique/Quasar/Parts/Part_GM_Material_Quasar.Part_GM_Material_Quasar"
+        ],
+        "GParts": [
+            "OakInventoryGenericPartData|/Game/PatchDLC/Raid1/Gear/Anointed/Generic/SkillEnd_BonusEleDamage_Radiation/GPart_EG_SkillEndBonusEleDamage_Radiation.GPart_EG_SkillEndBonusEleDamage_Radiation",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_Operative.BPInv_ClassModData2_Operative",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Operative_05_Legendary.InvBalD_ClassMod_Operative_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Operative.ClassMod_Part_Character_Operative",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/Operative/_Unique/Unique_04/ClassMod_Part_Operative_Unique_04_Firebrand.ClassMod_Part_Operative_Unique_04_Firebrand",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Operative_Rarity_05_Legendary.ClassMod_Part_Operative_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_ATLAS_WeaponFireRate.ClassMod_Part_Stat_Primary_ATLAS_WeaponFireRate",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Vladof_WeaponReloadSpeed.ClassMod_Part_Stat_Primary_Vladof_WeaponReloadSpeed",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/Manufacturer/ClassMod_Part_Stat_Secondary_Tediore_WeaponAccuracy.ClassMod_Part_Stat_Secondary_Tediore_WeaponAccuracy",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_DuctTape.ClassMod_Part_Skill_Operative_DuctTape",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_DuctTape.ClassMod_Part_Skill_Operative_DuctTape",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_DroneDelivery.ClassMod_Part_Skill_Operative_DroneDelivery",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_PocketFullOfGrenades.ClassMod_Part_Skill_Operative_PocketFullOfGrenades",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_DuctTape.ClassMod_Part_Skill_Operative_DuctTape"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_Gunner.BPInv_ClassModData2_Gunner",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Gunner_05_Legendary.InvBalD_ClassMod_Gunner_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Gunner.ClassMod_Part_Character_Gunner",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/Gunner/_Unique/Unique_03/ClassMod_Part_Gunner_Unique_03.ClassMod_Part_Gunner_Unique_03",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Gunner_Rarity_05_Legendary.ClassMod_Part_Gunner_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Maliwan_WeaponFireRate.ClassMod_Part_Stat_Primary_Maliwan_WeaponFireRate",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Jakobs_WeaponDamage.ClassMod_Part_Stat_Primary_Jakobs_WeaponDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/Manufacturer/ClassMod_Part_Stat_Secondary_Jakobs_WeaponReloadSpeed.ClassMod_Part_Stat_Secondary_Jakobs_WeaponReloadSpeed",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_Redistribution.ClassMod_Part_Skill_Gunner_Redistribution",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_Torgue.ClassMod_Part_Skill_Gunner_Torgue",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ArtifactData_C|/Game/Gear/Artifacts/_Design/_Data/Artifact_Default.Artifact_Default",
+        "Balance": "InventoryBalanceData|/Game/Gear/Artifacts/_Design/BalanceDefs/InvBalD_Artifact_05_Legendary.InvBalD_Artifact_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Eridian.Eridian",
+        "Parts": [
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/Rarity/Artifact_Part_Rarity_Legendary.Artifact_Part_Rarity_Legendary",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/Abilities/_Legendary/Slide/RocketBoots/Artifact_Part_Ability_RocketBoots.Artifact_Part_Ability_RocketBoots",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/Abilities/SlamArtifacts/SparkPlug/Artifact_Part_Ability_SparkPlug.Artifact_Part_Ability_SparkPlug",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/PrimaryStats/_Elemental/Frozen/Artifact_Part_Stats_Frozen.Artifact_Part_Stats_Frozen",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/SecondaryStats/Elemental/Artifact_Part_Stats_RadiationResist.Artifact_Part_Stats_RadiationResist",
+            "BPInvPart_Artifact_C|/Game/Gear/Artifacts/_Design/PartSets/SecondaryStats/Character/Artifact_Part_Stats_Movespeed.Artifact_Part_Stats_Movespeed"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/WT_SR_DAL.WT_SR_DAL",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/_Unique/MalaksBane/Balance/Balance_SR_DAL_ETech_MalaksBane.Balance_SR_DAL_ETech_MalaksBane",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Dahl.Dahl",
+        "Parts": [
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Body/Part_SR_DAL_Body.Part_SR_DAL_Body",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Body/Part_SR_DAL_Body_B.Part_SR_DAL_Body_B",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Body/Part_SR_DAL_Body_C.Part_SR_DAL_Body_C",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/_Unique/MalaksBane/Parts/Part_SR_DAL_Barrel_ETech_MalaksBane.Part_SR_DAL_Barrel_ETech_MalaksBane",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Magazine/Part_SR_DAL_Mag_03.Part_SR_DAL_Mag_03",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Grip/Part_SR_DAL_Grip_04.Part_SR_DAL_Grip_04",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Foregrip/Part_SR_DAL_Foregrip_04.Part_SR_DAL_Foregrip_04",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Bolt/Part_SR_DAL_Bolt_B.Part_SR_DAL_Bolt_B",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Rail/Part_SR_DAL_Rail_01.Part_SR_DAL_Rail_01",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/_Unique/MalaksBane/Parts/Part_SR_DAL_Scope_MalaksBane.Part_SR_DAL_Scope_MalaksBane",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/_Unique/MalaksBane/Parts/Part_SR_DAL_FiringMode_MalaksBane.Part_SR_DAL_FiringMode_MalaksBane",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Parts/Elemental/Part_SR_DAL_Ele_Fire.Part_SR_DAL_Ele_Fire",
+            "BPInvPart_SR_DAL_C|/Game/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/_Unique/MalaksBane/Parts/Part_SR_DAL_Material_MalaksBane.Part_SR_DAL_Material_MalaksBane"
+        ],
+        "GParts": [
+            "InventoryGenericPartData|/Game/Gear/Weapons/_Shared/_Design/EndGameParts/_Generic/SkillEnd_NextMagBonus/Fire/GPart_All_SkillEnd_NextMagBonusDamageFire.GPart_All_SkillEnd_NextMagBonusDamageFire",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_AR_ATL_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/WT_AR_ATL.WT_AR_ATL",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/_Unique/Carrier/Balance/Balance_ATL_AR_Carrier.Balance_ATL_AR_Carrier",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Atlas.Atlas",
+        "Parts": [
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Body/Part_ATL_AR_Body.Part_ATL_AR_Body",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Body/Part_ATL_AR_Body_B.Part_ATL_AR_Body_B",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Body/Part_ATL_AR_Body_C.Part_ATL_AR_Body_C",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Body/Part_ATL_AR_Body_A.Part_ATL_AR_Body_A",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/_Unique/Carrier/Parts/Part_AR_ATL_Barrel_Carrier.Part_AR_ATL_Barrel_Carrier",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Barrel/Barrel_01/Part_AR_ATL_Barrel_01_A.Part_AR_ATL_Barrel_01_A",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Barrel/Barrel_01/Part_AR_ATL_Barrel_01_B.Part_AR_ATL_Barrel_01_B",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Tracker/Part_AR_ATL_Tracker_03.Part_AR_ATL_Tracker_03",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Magazine/Part_AR_ATL_Mag_03.Part_AR_ATL_Mag_03",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Grip/Part_AR_ATL_Grip_03.Part_AR_ATL_Grip_03",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Foregrip/Part_AR_ATL_Foregrip_04.Part_AR_ATL_Foregrip_04",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/Parts/Scope/Part_AR_ATL_Scope_02.Part_AR_ATL_Scope_02",
+            "BPInvPart_ATL_AR_C|/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/_Design/_Unique/Carrier/Parts/Part_AR_ATL_Material_Carrier.Part_AR_ATL_Material_Carrier"
+        ],
+        "GParts": [
+            "OakInventoryGenericPartData|/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/SkillActive_PulseNova/GPart_EG_Gen_SkillActive_PulseFireNova.GPart_EG_Gen_SkillActive_PulseFireNova",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_Operative.BPInv_ClassModData2_Operative",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Operative_05_Legendary.InvBalD_ClassMod_Operative_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Operative.ClassMod_Part_Character_Operative",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/Operative/_Unique/Unique_03/ClassMod_Part_Operative_Unique_03_Expert.ClassMod_Part_Operative_Unique_03_Expert",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Operative_Rarity_05_Legendary.ClassMod_Part_Operative_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/ClassMod_Part_Stat_Primary_HealthMax.ClassMod_Part_Stat_Primary_HealthMax",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Hyperion_WeaponCriticalDamage.ClassMod_Part_Stat_Primary_Hyperion_WeaponCriticalDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/WeaponType/ClassMod_Part_Stat_Secondary_SMGDamage.ClassMod_Part_Stat_Secondary_SMGDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_Chancer.ClassMod_Part_Skill_Operative_Chancer",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_ReadyForAction.ClassMod_Part_Skill_Operative_ReadyForAction",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_ReadyForAction.ClassMod_Part_Skill_Operative_ReadyForAction",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_ReadyForAction.ClassMod_Part_Skill_Operative_ReadyForAction",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Operative/ClassMod_Part_Skill_Operative_Chancer.ClassMod_Part_Skill_Operative_Chancer"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_ClassModData2_C|/Game/Gear/ClassMods/_Design/_Data/BPInv_ClassModData2_Gunner.BPInv_ClassModData2_Gunner",
+        "Balance": "InventoryBalanceData|/Game/Gear/ClassMods/_Design/BalanceDefs/InvBalD_ClassMod_Gunner_05_Legendary.InvBalD_ClassMod_Gunner_05_Legendary",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/ClassMod.ClassMod",
+        "Parts": [
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Character/ClassMod_Part_Character_Gunner.ClassMod_Part_Character_Gunner",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/Gunner/_Unique/Unique_03/ClassMod_Part_Gunner_Unique_03.ClassMod_Part_Gunner_Unique_03",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Rarity/ClassMod_Part_Gunner_Rarity_05_Legendary.ClassMod_Part_Gunner_Rarity_05_Legendary",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_Maliwan_WeaponAccuracy.ClassMod_Part_Stat_Primary_Maliwan_WeaponAccuracy",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/Manufacturer/ClassMod_Part_Stat_Primary_ATLAS_WeaponDamage.ClassMod_Part_Stat_Primary_ATLAS_WeaponDamage",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/Weapon/ClassMod_Part_Stat_Secondary_FireRate.ClassMod_Part_Stat_Secondary_FireRate",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_Torgue.ClassMod_Part_Skill_Gunner_Torgue",
+            "BPInvPart_ClassMod_C|/Game/Gear/ClassMods/_Design/PartSets/Part_Skills/Gunner/ClassMod_Part_Skill_Gunner_FireSkagDen.ClassMod_Part_Skill_Gunner_FireSkagDen"
+        ],
+        "GParts": []
+    },
+    {
+        "Level": 72,
+        "InvData": "BPInv_PS_Jakobs_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/WT_PS_JAK.WT_PS_JAK",
+        "Balance": "InventoryBalanceData|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/_Unique/Maggie/Balance/Balance_PS_JAK_Maggie.Balance_PS_JAK_Maggie",
+        "ManuData": "OakManufacturerData|/Game/Gear/Manufacturers/_Design/Jakobs.Jakobs",
+        "Parts": [
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Body/Part_PS_JAK_Body.Part_PS_JAK_Body",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Body/Part_PS_JAK_Speedloader.Part_PS_JAK_Speedloader",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Body/Part_PS_JAK_Body_A.Part_PS_JAK_Body_A",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Body/Part_PS_JAK_Body_B.Part_PS_JAK_Body_B",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/_Unique/Maggie/Parts/Part_PS_JAK_Barrel_Maggie.Part_PS_JAK_Barrel_Maggie",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Barrel/Barrel_01/Part_PS_JAK_Barrel_01_A.Part_PS_JAK_Barrel_01_A",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Barrel/Barrel_01/Part_PS_JAK_Barrel_01_B.Part_PS_JAK_Barrel_01_B",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Grip/Part_PS_JAK_Grip_01.Part_PS_JAK_Grip_01",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Hammer/Part_PS_JAK_Hammer_02.Part_PS_JAK_Hammer_02",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Mag/Part_PS_JAK_Mag_01.Part_PS_JAK_Mag_01",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Rail/Part_PS_JAK_Rail_01.Part_PS_JAK_Rail_01",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/Parts/Scope/Part_PS_JAK_Scope_03.Part_PS_JAK_Scope_03",
+            "BPInvPart_Jakobs_Pistol_C|/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/_Unique/Maggie/Parts/Part_PS_JAK_Material_Maggie.Part_PS_JAK_Material_Maggie"
+        ],
+        "GParts": [
+            "OakInventoryGenericPartData|/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/SkillActive_UniqueEnemyDamage/GPart_All_UniqueEnemyDamage.GPart_All_UniqueEnemyDamage",
+            "OakWeaponMayhemPartData|/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel.Part_WeaponMayhemLevel"
+        ]
+    }
+]

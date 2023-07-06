@@ -1,0 +1,9 @@
+/Script/OakGame.GFxPauseMenu.OnQuitChoiceMade //on game quit
+/Script/GbxGameSystemCore.DamageComponent.ReceiveAnyDamage //Triggers for all actors upon taking damage(works with extra elements tho)
+/Script/GbxGameSystemCore.DamageData.OnHitAnyAttitude //Triggers on hit for player and other actors, doesnt work with multiple elements(probably bes hook for onhit abilities)
+/Script/GbxGameSystemCore.DamageData.OnKilledEnemy //same as above but for killing something instead(again probably best for kill skills and such)
+/Script/OakGame.OakCharacter.AddedToInventory //Triggers on item pickup
+
+\n\d\d\d\d-\d\d-\d\d\W\d\d:\d\d:\d\d\.\d\d\d.*
+pCaller Name = .*
+pFunction Name = (Function |)(/Script/Engine.ActorComponent.ReceiveTick|/Script/Engine.Actor.ReceiveTick|/Script/OakGame.OakCharacter_Player.GetPet|/Script/GbxAbilities.GbxAbility.CalculateAbilityState|/Script/GbxCameraModes.CameraBehavior.Update|/Script/Engine.AnimInstance.BlueprintPostEvaluateAnimation|/Game/InteractiveObjects/GameSystemMachines/ZoneMap/Design/BP_ZoneMap.BP_ZoneMap_C.ReceiveTick|/Game/NonPlayerCharacters/_Shared/_Design/BPCont_NonPlayerCharacter.BPCont_NonPlayerCharacter_C.ReceiveTick|/Game/PlayerCharacters/_Shared/_Design/Character/BPChar_Player.BPChar_Player_C.ReceiveTick|/Script/Engine.SkeletalMeshComponent.EnableTickingDueToWake)

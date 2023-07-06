@@ -1,0 +1,905 @@
+{
+  "Script": [
+    {
+      "StatementIndex": 0,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Character"
+      },
+      "Expression": {
+        "Inst": "DynamicCast",
+        "Class": "/Script/OakGame.OakCharacter",
+        "Expression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.Context"
+        }
+      }
+    },
+    {
+      "StatementIndex": 36,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_bSuccess"
+      },
+      "Expression": {
+        "Inst": "PrimitiveCast",
+        "CastType": "ObjectToBool",
+        "Expression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Character"
+        }
+      }
+    },
+    {
+      "StatementIndex": 65,
+      "Inst": "JumpIfNot",
+      "Offset": 1088,
+      "Condition": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_bSuccess"
+      }
+    },
+    {
+      "StatementIndex": 79,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Character"
+        },
+        "SkipOffsetForNull": 19,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetWeapon",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 120,
+              "Object": "/Game/Gear/Weapons/_Shared/_Design/AttachSlots/BPInvWeaponSlot_RightHand.BPInvWeaponSlot_RightHand"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 130,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Weapon"
+      },
+      "Expression": {
+        "Inst": "DynamicCast",
+        "Class": "/Script/OakGame.OakWeapon",
+        "Expression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+        }
+      }
+    },
+    {
+      "StatementIndex": 166,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_bSuccess1"
+      },
+      "Expression": {
+        "Inst": "PrimitiveCast",
+        "CastType": "ObjectToBool",
+        "Expression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Weapon"
+        }
+      }
+    },
+    {
+      "StatementIndex": 195,
+      "Inst": "JumpIfNot",
+      "Offset": 1088,
+      "Condition": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_bSuccess1"
+      }
+    },
+    {
+      "StatementIndex": 209,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetManufacturer_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Weapon"
+        },
+        "SkipOffsetForNull": 10,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetManufacturer_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetManufacturer",
+          "Parameters": []
+        }
+      }
+    },
+    {
+      "StatementIndex": 251,
+      "Inst": "LetBool",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_NotEqual_ObjectObject_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "CallMath",
+        "Function": "NotEqual_ObjectObject",
+        "ContextClass": "/Script/Engine.KismetMathLibrary",
+        "Parameters": [
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetManufacturer_ReturnValue"
+          },
+          {
+            "Inst": "ObjectConst",
+            "HotfixIndex": 279,
+            "Object": "/Game/Gear/Manufacturers/_Design/CoV.CoV"
+          }
+        ]
+      }
+    },
+    {
+      "StatementIndex": 289,
+      "Inst": "JumpIfNot",
+      "Offset": 1116,
+      "Condition": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_NotEqual_ObjectObject_ReturnValue"
+      }
+    },
+    {
+      "StatementIndex": 303,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Character"
+        },
+        "SkipOffsetForNull": 19,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetWeapon",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 344,
+              "Object": "/Game/Gear/Weapons/_Shared/_Design/AttachSlots/BPInvWeaponSlot_RightHand.BPInvWeaponSlot_RightHand"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 354,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 373,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxAttributeFunctionLibrary"
+        },
+        "SkipOffsetForNull": 33,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetValueOfAttribute",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 403,
+              "Object": "/Game/GameData/Weapons/Att_Weapon_MaxLoadedAmmo.Att_Weapon_MaxLoadedAmmo"
+            },
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+            },
+            {
+              "HotfixIndex": 421,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 427,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue1"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 446,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxAttributeFunctionLibrary"
+        },
+        "SkipOffsetForNull": 33,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue1",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetValueOfAttribute",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 476,
+              "Object": "/Game/GameData/Weapons/Att_Weapon_CurrentLoadedAmmo.Att_Weapon_CurrentLoadedAmmo"
+            },
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+            },
+            {
+              "HotfixIndex": 494,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 500,
+      "Inst": "LetBool",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_NotEqual_FloatFloat_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "CallMath",
+        "Function": "NotEqual_FloatFloat",
+        "ContextClass": "/Script/Engine.KismetMathLibrary",
+        "Parameters": [
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue1"
+          },
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue"
+          }
+        ]
+      }
+    },
+    {
+      "StatementIndex": 538,
+      "Inst": "JumpIfNot",
+      "Offset": 1491,
+      "Condition": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_NotEqual_FloatFloat_ReturnValue"
+      }
+    },
+    {
+      "StatementIndex": 552,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "StructMemberContext",
+        "Property Outer": "/Script/GbxGameSystemCore",
+        "Property Name": "DataTableValueHandle.DataTable",
+        "StructExpression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle"
+        }
+      },
+      "Expression": {
+        "Inst": "ObjectConst",
+        "HotfixIndex": 571,
+        "Object": "/Game/PlayerCharacters/_Shared/_Design/Balance/Gunner/DataTable_Gunner_SkillsBalance.DataTable_Gunner_SkillsBalance"
+      }
+    },
+    {
+      "StatementIndex": 580,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "StructMemberContext",
+        "Property Outer": "/Script/GbxGameSystemCore",
+        "Property Name": "DataTableValueHandle.RowName",
+        "StructExpression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle"
+        }
+      },
+      "Expression": {
+        "Inst": "NameConst",
+        "HotfixIndex": 607,
+        "Value": "P_ClickClick"
+      }
+    },
+    {
+      "StatementIndex": 620,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "StructMemberContext",
+        "Property Outer": "/Script/GbxGameSystemCore",
+        "Property Name": "DataTableValueHandle.ValueName",
+        "StructExpression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle"
+        }
+      },
+      "Expression": {
+        "Inst": "NameConst",
+        "HotfixIndex": 647,
+        "Value": "DamageScalar"
+      }
+    },
+    {
+      "StatementIndex": 660,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetDataTableValueFromHandle_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 679,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxDataTableFunctionLibrary"
+        },
+        "SkipOffsetForNull": 25,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetDataTableValueFromHandle_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetDataTableValueFromHandle",
+          "Parameters": [
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle"
+            },
+            {
+              "Inst": "NoObject"
+            },
+            {
+              "HotfixIndex": 719,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 725,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Character"
+        },
+        "SkipOffsetForNull": 19,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetWeapon",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 766,
+              "Object": "/Game/Gear/Weapons/_Shared/_Design/AttachSlots/BPInvWeaponSlot_RightHand.BPInvWeaponSlot_RightHand"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 776,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 795,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxAttributeFunctionLibrary"
+        },
+        "SkipOffsetForNull": 33,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetValueOfAttribute",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 825,
+              "Object": "/Game/GameData/Weapons/Att_Weapon_MaxLoadedAmmo.Att_Weapon_MaxLoadedAmmo"
+            },
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+            },
+            {
+              "HotfixIndex": 843,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 849,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue1"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 868,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxAttributeFunctionLibrary"
+        },
+        "SkipOffsetForNull": 33,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue1",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetValueOfAttribute",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 898,
+              "Object": "/Game/GameData/Weapons/Att_Weapon_CurrentLoadedAmmo.Att_Weapon_CurrentLoadedAmmo"
+            },
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+            },
+            {
+              "HotfixIndex": 916,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 922,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_Divide_FloatFloat_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "CallMath",
+        "Function": "Divide_FloatFloat",
+        "ContextClass": "/Script/Engine.KismetMathLibrary",
+        "Parameters": [
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue1"
+          },
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue"
+          }
+        ]
+      }
+    },
+    {
+      "StatementIndex": 968,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_Subtract_FloatFloat_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "CallMath",
+        "Function": "Subtract_FloatFloat",
+        "ContextClass": "/Script/Engine.KismetMathLibrary",
+        "Parameters": [
+          {
+            "HotfixIndex": 995,
+            "Inst": "FloatConst",
+            "Value": 1.0
+          },
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_Divide_FloatFloat_ReturnValue"
+          }
+        ]
+      }
+    },
+    {
+      "StatementIndex": 1010,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_Multiply_FloatFloat_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "CallMath",
+        "Function": "Multiply_FloatFloat",
+        "ContextClass": "/Script/Engine.KismetMathLibrary",
+        "Parameters": [
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_Subtract_FloatFloat_ReturnValue"
+          },
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetDataTableValueFromHandle_ReturnValue"
+          }
+        ]
+      }
+    },
+    {
+      "StatementIndex": 1056,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalOutVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.ReturnValue"
+      },
+      "Expression": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_Multiply_FloatFloat_ReturnValue"
+      }
+    },
+    {
+      "StatementIndex": 1083,
+      "Inst": "Jump",
+      "HotfixIndex": 1083,
+      "Offset": 1514
+    },
+    {
+      "StatementIndex": 1088,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalOutVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.ReturnValue"
+      },
+      "Expression": {
+        "HotfixIndex": 1106,
+        "Inst": "FloatConst",
+        "Value": 0.0
+      }
+    },
+    {
+      "StatementIndex": 1111,
+      "Inst": "Jump",
+      "HotfixIndex": 1111,
+      "Offset": 1514
+    },
+    {
+      "StatementIndex": 1116,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_DynamicCast_AsOak_Character"
+        },
+        "SkipOffsetForNull": 19,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetWeapon",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 1157,
+              "Object": "/Game/Gear/Weapons/_Shared/_Design/AttachSlots/BPInvWeaponSlot_RightHand.BPInvWeaponSlot_RightHand"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 1167,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue2"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 1186,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxAttributeFunctionLibrary"
+        },
+        "SkipOffsetForNull": 33,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue2",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetValueOfAttribute",
+          "Parameters": [
+            {
+              "Inst": "ObjectConst",
+              "HotfixIndex": 1216,
+              "Object": "/Game/GameData/Weapons/Att_Weapon_CurrentHeat.Att_Weapon_CurrentHeat"
+            },
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetWeapon_ReturnValue"
+            },
+            {
+              "HotfixIndex": 1234,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 1240,
+      "Inst": "LetObj",
+      "Variable": {
+        "Inst": "StructMemberContext",
+        "Property Outer": "/Script/GbxGameSystemCore",
+        "Property Name": "DataTableValueHandle.DataTable",
+        "StructExpression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle1"
+        }
+      },
+      "Expression": {
+        "Inst": "ObjectConst",
+        "HotfixIndex": 1259,
+        "Object": "/Game/PlayerCharacters/_Shared/_Design/Balance/Gunner/DataTable_Gunner_SkillsBalance.DataTable_Gunner_SkillsBalance"
+      }
+    },
+    {
+      "StatementIndex": 1268,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "StructMemberContext",
+        "Property Outer": "/Script/GbxGameSystemCore",
+        "Property Name": "DataTableValueHandle.RowName",
+        "StructExpression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle1"
+        }
+      },
+      "Expression": {
+        "Inst": "NameConst",
+        "HotfixIndex": 1295,
+        "Value": "P_ClickClick"
+      }
+    },
+    {
+      "StatementIndex": 1308,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "StructMemberContext",
+        "Property Outer": "/Script/GbxGameSystemCore",
+        "Property Name": "DataTableValueHandle.ValueName",
+        "StructExpression": {
+          "Inst": "LocalVariable",
+          "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+          "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle1"
+        }
+      },
+      "Expression": {
+        "Inst": "NameConst",
+        "HotfixIndex": 1335,
+        "Value": "DamageScalar"
+      }
+    },
+    {
+      "StatementIndex": 1348,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetDataTableValueFromHandle_ReturnValue1"
+      },
+      "Expression": {
+        "Inst": "Context",
+        "Context": {
+          "Inst": "ObjectConst",
+          "HotfixIndex": 1367,
+          "Object": "/Script/GbxGameSystemCore.Default__GbxDataTableFunctionLibrary"
+        },
+        "SkipOffsetForNull": 25,
+        "RValuePropertyOuter": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "RValuePropertyName": "CalculateAttributeInitialValue.CallFunc_GetDataTableValueFromHandle_ReturnValue1",
+        "Expression": {
+          "Inst": "FinalFunction",
+          "Function": "GetDataTableValueFromHandle",
+          "Parameters": [
+            {
+              "Inst": "LocalVariable",
+              "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+              "Variable Name": "CalculateAttributeInitialValue.K2Node_MakeStruct_DataTableValueHandle1"
+            },
+            {
+              "Inst": "NoObject"
+            },
+            {
+              "HotfixIndex": 1407,
+              "Inst": "FloatConst",
+              "Value": 0.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "StatementIndex": 1413,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_Multiply_FloatFloat_ReturnValue1"
+      },
+      "Expression": {
+        "Inst": "CallMath",
+        "Function": "Multiply_FloatFloat",
+        "ContextClass": "/Script/Engine.KismetMathLibrary",
+        "Parameters": [
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetValueOfAttribute_ReturnValue2"
+          },
+          {
+            "Inst": "LocalVariable",
+            "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+            "Variable Name": "CalculateAttributeInitialValue.CallFunc_GetDataTableValueFromHandle_ReturnValue1"
+          }
+        ]
+      }
+    },
+    {
+      "StatementIndex": 1459,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalOutVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.ReturnValue"
+      },
+      "Expression": {
+        "Inst": "LocalVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.CallFunc_Multiply_FloatFloat_ReturnValue1"
+      }
+    },
+    {
+      "StatementIndex": 1486,
+      "Inst": "Jump",
+      "HotfixIndex": 1486,
+      "Offset": 1514
+    },
+    {
+      "StatementIndex": 1491,
+      "Inst": "Let",
+      "Variable": {
+        "Inst": "LocalOutVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.ReturnValue"
+      },
+      "Expression": {
+        "HotfixIndex": 1509,
+        "Inst": "FloatConst",
+        "Value": 0.0
+      }
+    },
+    {
+      "StatementIndex": 1514,
+      "Inst": "Return",
+      "Expression": {
+        "Inst": "LocalOutVariable",
+        "Variable Outer": "Init_Gunner_ClickClick_WeaponDamageCalc_C",
+        "Variable Name": "CalculateAttributeInitialValue.ReturnValue"
+      }
+    },
+    {
+      "StatementIndex": 1524,
+      "Inst": "EndOfScript"
+    }
+  ]
+}
